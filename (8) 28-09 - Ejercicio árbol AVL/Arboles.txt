@@ -1,0 +1,15 @@
+1º Parto de raiz principal.
+2º Leo la secuencia.
+3º Reinicio secuencia si cambio de nodo.
+4º Si visito en la secuencia raiz anoto.
+
+In orden (IRD)
+pos orden(IDR)
+pre orden(RID)
+
+avl
+Cuando los signos son opuestos la rotacion será doble
+
+
+
+

@@ -1,0 +1,28 @@
+draw.io (grafico de entidad relación)
+Análisis
+requerimientos de la base de datos.
+-> Reglas de negocio.
+
+Diseño(3 etapas)
+a)Modelo conceptual->MER
+
+	Cardinalidad de cantidad.
+	Es la relacion de cantidades entre entidades
+
+	cardinalidad de la relación.
+	1:1 (uno-uno)
+	1:N (uno-muchos)
+	N:M (muchos-muchos)
+
+
+b)Modelo lógico.-> Modelo relacional
+	1. Toda identidad es una tabla, se identificará con una clave primaria(pk)
+	2. Atributos - campos.
+	3. Relaciones: 
+		1:1 (uno-uno)
+		1:N (uno-muchos)
+		N:M (muchos-muchos) -> genera tabla intermedia (tienen claves primarias de 					las entidades que intervienen)
+
+Las relaciones se realizan a traves de la clave foranea.La clave foranea va en la tabla de "muchos".
+
+c)Modelo físico.-> SGBD
